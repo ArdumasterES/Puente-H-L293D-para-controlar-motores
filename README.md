@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O4L1CXI)
 # [Puente H L293D para controlar motores](ardumaster.com/puente-h-l293d-para-controlar-motores/ )
 Puente H L293D para controlar motores
 
